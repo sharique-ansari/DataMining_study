@@ -1,0 +1,2 @@
+Logistic Regression - 64.39%
+NaiveBayes - 73.56%

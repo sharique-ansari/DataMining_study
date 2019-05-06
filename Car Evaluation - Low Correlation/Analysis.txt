@@ -1,0 +1,23 @@
+buying price - vhigh,high,med,low
+maintenance cost - vhigh,high,med,low
+number of doors - 2,3,4,5more
+number of persons - 2,4,more
+lug_boot - big med,small
+safety - high,med,low
+decision - unacc,acc,good,vgood
+
+vhigh - 4
+high - 3
+med - 2
+low - 1
+5more - 5
+more - 6
+big -3
+small -1
+unacc - 1
+acc - 2
+good - 3
+vgood - 4
+
+Logistic Regression - 71.82%
+NaiveBayes - 75.37%

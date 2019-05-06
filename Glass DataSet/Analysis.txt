@@ -1,0 +1,2 @@
+Build Wind Float - 0
+Build Wind Non-Float - 1
