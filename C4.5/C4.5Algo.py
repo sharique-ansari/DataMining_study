@@ -4,33 +4,6 @@ import math
 import copy
 
 """
-ISSUES:
-
-1) handle cases when feature has a zero probability
-    gain(d,feat) = p(d|feat)*entropy(d|feat)
-    = 0*-infinity: Not defined
-
-2) Feeding result's in Decision tree induction structure and validating tree
-
-3) Reading data from csv into proper form (Partially Solved)
-
-4) while finding no. in favour of attributes; column no. might be referenced before assignment
-    (handled with given default)
-
-5) Differentiating between different type of data attributes; true/false, nominal
-
-
-COMPLETED:
-
-1) Reading data from csv file and divide it into attributes and rows
-
-2) calculating entropy if data and character is provided(Needs to be corrected for corner cases)
-
-3) Finding p(decision|feature) and thus entropy
-
-4) Defining data entry as a csv class
-
-"""
 
 
 class tCSV():
